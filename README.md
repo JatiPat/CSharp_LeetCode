@@ -1,2 +1,2 @@
 # CSharp_LeetCode
-Practicing C# and Interveiw Questions 
+Practicing C# and Interveiw Questions on Leetcode
